@@ -7,3 +7,4 @@ chromadb-client==0.4.25.dev0
 tiktoken==0.6.0
 h11>=0.16.0 # not directly required, pinned by Snyk to avoid a vulnerability
 pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
+fonttools>=4.61.0 # not directly required, pinned by Snyk to avoid a vulnerability
